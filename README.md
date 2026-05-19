@@ -1,5 +1,7 @@
 # pv-power-monitoring-system
 
+![Project image](assets/pv-power-monitor.jpg)
+
 An embedded systems project developing a real-time power monitoring 
 system for a photovoltaic (PV) panel.
 
